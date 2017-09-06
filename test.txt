@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CA15-5B2E
+
+ Directory of C:\Myproject
+
+09/06/2017  05:58 PM    <DIR>          .
+09/06/2017  05:58 PM    <DIR>          ..
+09/06/2017  05:58 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  401,994,485,760 bytes free
